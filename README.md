@@ -1,5 +1,5 @@
 Hello <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<br> My name is Le Dinh Nguyen and I'm a Developer Application Internship. I'm form Vietnam, living in HCMC.
+<br> My name is Le Dinh Nguyen and I'm a Developer Application Internship. I'm from Vietnam, living in HCMC.
 
 <h2 align="center">
     🛠 Technologies and Tools 🛠</h2>
