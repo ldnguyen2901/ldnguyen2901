@@ -39,8 +39,8 @@ A brief overview of the skills and knowledge
 <!-- <img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"> -->
 
 </div>
-<div style="display:flex" align=left>
-    <img width="320" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldnguyen2901&show_icons=true&locale=en&layout=compact"/>
+<div display="flex" align=left>
+    <img width="320" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldnguyen2901&show_icons=true&locale=en&layout=compact"/>
     <picture>
     <source width="175" media="(prefers-color-scheme: dark)" srcset="https://github.com/ldnguyen2901/ldnguyen2901/blob/Test-Profile/img/Cartoon.png?raw=true">
     <img width="175" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/ldnguyen2901/ldnguyen2901/blob/Test-Profile/img/Cartoon3D.jpg?raw=true">
