@@ -48,7 +48,7 @@ A brief overview of the skills and knowledge
         <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=ldnguyen2901&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a> -->
     <picture>
-    <source style="width: 175px; border-radius:50% !important" media="(prefers-color-scheme: dark)" srcset="https://github.com/ldnguyen2901/ldnguyen2901/blob/Test-Profile/img/Cartoon.png?raw=true">
-    <img style="width: 175px; border-radius:50% !important" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/ldnguyen2901/ldnguyen2901/blob/Test-Profile/img/Cartoon3D.jpg?raw=true">
+    <source width="175" media="(prefers-color-scheme: dark)" srcset="https://github.com/ldnguyen2901/ldnguyen2901/blob/Test-Profile/img/Cartoon.png?raw=true">
+    <img width="175" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/ldnguyen2901/ldnguyen2901/blob/Test-Profile/img/Cartoon3D.jpg?raw=true">
     </picture>
 </div>
