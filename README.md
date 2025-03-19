@@ -37,8 +37,9 @@ A brief overview of the skills and knowledge
 <img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" alt="Git">
 <img src="https://img.shields.io/badge/GitHub%20-lightgrey?logo=github&logoColor=white" alt="GitHub">
 <!-- <img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"> -->
+
 </div>
-<div align=left>
+<div class="avatarstats" align=left>
     <a href="" title="Le Dinh Nguyen">
         <img width="320"  align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ldnguyen2901&show_icons=true&locale=en&layout=compact"
         />
@@ -47,8 +48,17 @@ A brief overview of the skills and knowledge
         <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=ldnguyen2901&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a> -->
     <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/ldnguyen2901/ldnguyen2901/blob/Test-Profile/img/Cartoon.png?raw=true">
-  <img alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/ldnguyen2901/ldnguyen2901/blob/Test-Profile/img/Cartoon3D.jpg?raw=true">
+    <source class="avatar-user" media="(prefers-color-scheme: dark)" srcset="https://github.com/ldnguyen2901/ldnguyen2901/blob/Test-Profile/img/Cartoon.png?raw=true">
+    <img class="avatar-user" alt="Shows an illustrated sun in light color mode and a moon with stars in dark color mode." src="https://github.com/ldnguyen2901/ldnguyen2901/blob/Test-Profile/img/Cartoon3D.jpg?raw=true">
     </picture>
 </div>
 
+<style>
+.avatarstats{
+    display:flex;
+}
+.avatar-user{
+    width: 175px;
+    border-radius:50% !important;
+}
+</style>
