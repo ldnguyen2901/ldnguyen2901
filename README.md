@@ -8,7 +8,7 @@ A brief overview of the skills and knowledge
 <div>
     <strong>🌐 Frontend</strong>:
     <img src="https://img.shields.io/badge/HTML5%20%26%20CSS3%20%26%20SASS-orange?logo=html5&logoColor=white" alt="HTML5 & CSS3 & SASS">
-    <img src="https://img.shields.io/badge/ReactJS-blue?logo=reactjs&logoColor=white" alt="React">
+    <img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React">
     <img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white" alt="Bootstrap">
     <img src="https://img.shields.io/badge/MUI-9cf?logo=mui&logoColor=white" alt="MUI">
     <img src="https://img.shields.io/badge/Vite-yellow?logo=vite&logoColor=white" alt="Vite">
@@ -47,4 +47,3 @@ A brief overview of the skills and knowledge
         <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=ldnguyen2901&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a> -->
 </div>
-
